@@ -4,9 +4,6 @@
 [submodule "turbin3-prereq"]
 	path = turbin3-prereq
 	url = https://github.com/Jars1987/turbin3-prereq
-[submodule "Escrow-Cohort-Q3"]
-	path = anchor-escrow
-	url = https://github.com/Jars1987/Escrow-Cohort-Q3
 [submodule "vault-Cohort-Q3"]
 	path = anchor-vault
 	url = https://github.com/Jars1987/vault-Cohort-Q3
