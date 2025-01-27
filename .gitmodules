@@ -10,3 +10,6 @@
 [submodule "anchor-vault"]
 	path = anchor-vault
 	url = https://github.com/Jars1987/anchor-vault
+[submodule "amm"]
+	path = amm
+	url = https://github.com/Jars1987/anchor-amm
