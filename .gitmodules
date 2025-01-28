@@ -13,3 +13,6 @@
 [submodule "amm"]
 	path = amm
 	url = https://github.com/Jars1987/anchor-amm
+[submodule "nft-marketplace"]
+	path = nft-marketplace
+	url = https://github.com/Jars1987/nft-marketplace
