@@ -16,3 +16,6 @@
 [submodule "nft-marketplace"]
 	path = nft-marketplace
 	url = https://github.com/Jars1987/nft-marketplace
+[submodule "PaperFi"]
+	path = PaperFi
+	url = ./PaperFi
