@@ -22,3 +22,6 @@
 [submodule "nft-staking"]
 	path = nft-staking
 	url = https://github.com/Jars1987/nft-staking
+[submodule "dice_game"]
+	path = dice_game
+	url = ttps://github.com/Jars1987/dice-game.git
