@@ -18,7 +18,7 @@
 	url = https://github.com/Jars1987/nft-marketplace
 [submodule "PaperFi"]
 	path = PaperFi
-	url = ./PaperFi
+	url = https://github.com/Jars1987/PaperFi
 [submodule "nft-staking"]
 	path = nft-staking
 	url = https://github.com/Jars1987/nft-staking
